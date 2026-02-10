@@ -8,7 +8,7 @@ const Support = () => {
   const navigate = useNavigate();
 
   const handleLiveChatClick = () => {
-    window.open('https://t.me/Matthewxx8230', '_blank');
+    window.open('https://chat.whatsapp.com/EGg6uVsUoKS0qh4BeENdoq?mode=gi_t', '_blank');
   };
 
   return (
